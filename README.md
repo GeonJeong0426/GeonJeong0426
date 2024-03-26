@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Geon's%20GitHub%20Profile&fontSize=70" />
 <!--
 **GeonJeong0426/GeonJeong0426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
